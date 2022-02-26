@@ -105,8 +105,7 @@ Call Timer_Timer
 MsgBox "StarCraft & StarCraft Brood War Map Hack 1.10 - 2003" & vbCrLf & vbCrLf & _
 "It work's only with StarCraft & StarCraft Brood War 1.10" & vbCrLf & _
 "Press DELETE to turn map hack on/off" & vbCrLf & vbCrLf & _
-"Coded by kostas86" & vbCrLf & "e-mail: kostas1986@hotmail.com" _
-& vbCrLf & "http://www.geocities.com/devil1986gr", vbInformation
+"Coded by kostas86" & vbCrLf & "e-mail: kakavoulisk@gmail.com" & , vbInformation
 End Sub
 
 Private Sub Form_Activate()
