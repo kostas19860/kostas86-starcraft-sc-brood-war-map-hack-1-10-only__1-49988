@@ -7,7 +7,7 @@
 
 ### Description
 
-This program show you how to use WriteProcessMemory & ReadProcessMemory api. With this program you can see the full map while playing starcraft (1.10 only) (it work's on b.net and offline). I didn't find a similar program here so i post it. Don't ask me how i find the offsets try www.gamehacking.com to learn how to.
+This program demonstrates how to use WriteProcessMemory & ReadProcessMemory api. With this program you can see the full map while playing starcraft (1.10 only) (it work's on b.net and offline). I didn't find a similar program here so i post it. Don't ask me how i find the offsets try www.gamehacking.com to learn how to.
  
 ### More Info
  
