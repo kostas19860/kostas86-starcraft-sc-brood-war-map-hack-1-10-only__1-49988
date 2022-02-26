@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form frm 
    BackColor       =   &H00FFFFFF&
    BorderStyle     =   4  'Fixed ToolWindow
-   Caption         =   "StarCraft BroodWar Map Hack 1.10"
+Caption         =   "StarCraft BroodWar Map Hack 1.10 - 2003"
    ClientHeight    =   960
    ClientLeft      =   45
    ClientTop       =   315
@@ -102,7 +102,7 @@ End If
 
 Call Timer_Timer
 
-MsgBox "StarCraft & StarCraft Brood War Map Hack 1.10 (korean offsets)" & vbCrLf & vbCrLf & _
+MsgBox "StarCraft & StarCraft Brood War Map Hack 1.10 - 2003" & vbCrLf & vbCrLf & _
 "It work's only with StarCraft & StarCraft Brood War 1.10" & vbCrLf & _
 "Press DELETE to turn map hack on/off" & vbCrLf & vbCrLf & _
 "Coded by kostas86" & vbCrLf & "e-mail: kostas1986@hotmail.com" _
